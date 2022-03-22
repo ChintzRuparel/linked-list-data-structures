@@ -34,5 +34,5 @@ Basic Structure of A Linked List - </center>
 </ul>
 
 <p>
-    Preferred IDE - <a href="https://www.codeblocks.org/downloads/">Install Codeblocks</a>
+    Preferred IDE - <a href="https://www.codeblocks.org/downloads/"> Codeblocks</a>
 </p>
